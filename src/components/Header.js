@@ -134,10 +134,7 @@ const useStyle = makeStyles((theme) => ({
     },
     avatar: {
         marginLeft: theme.spacing(2),
-    }
-
-
-
+    },
 }))
 
 
