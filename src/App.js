@@ -3,7 +3,6 @@
 import Header from './components/Header';
 import Home from './components/Home';
 import SearchFood from './components/SearchFood';
-//import {BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
 
 
